@@ -9,7 +9,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "expo": "^32.0.0",
     "moment": "^2.24.0",
     "os": "^0.1.1",
